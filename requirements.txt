@@ -1,0 +1,6 @@
+chromadb==1.5.9
+sentence-transformers==5.5.1
+requests==2.32.3
+beautifulsoup4==4.13.4
+python-dotenv==1.2.2
+jupyter==1.1.1
